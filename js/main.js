@@ -1,6 +1,6 @@
 'use strict';
 
-const { createApp } = Vue
+const { createApp } = Vue;
 
   createApp({
     data() {
@@ -10,4 +10,4 @@ const { createApp } = Vue
         scroogeAlt: 'Scrooge McDuck'
       }
     }
-  }).mount('#app')
+  }).mount('#app');
